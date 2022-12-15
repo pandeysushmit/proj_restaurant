@@ -35,27 +35,23 @@ Firebase is used for uploading and retrieving images.
 
 ### Images:
 > Welcome Page
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/WelcomePage.png" />
-
-> Welcome Page - Deutsch
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/WelcomePageDeutsch.png" />
-
+<img src="https://github.com/pandeysushmit/restaurant-app-wt/blob/master/screenshots/WelcomePage.png" />
 > Login
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/Login.png" />
+<img src="https://github.com/pandeysushmit/restaurant-app-wt/blob/master/screenshots/Login.png" />
 
 > Sign Up
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/SignUp.png" />
+<img src="https://github.com/pandeysushmit/restaurant-app-wt/blob/master/screenshots/SignUp.png" />
 
 > Home
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/Home.png" />
+<img src="https://github.com/pandeysushmit/restaurant-app-wt/blob/master/screenshots/Home.png" />
 
 > Add Menu Form
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/AddMenu.png" />
+<img src="https://github.com/pandeysushmit/restaurant-app-wt/blob/master/screenshots/AddMenu.png" />
 
 > Edit Menu Form
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/EditMenu.png" />
+<img src="https://github.com/pandeysushmit/restaurant-app-wt/blob/master/screenshots/EditMenu.png" />
 
 > Page not found
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/PageNotFound.png" />
+<img src="https://github.com/pandeysushmit/restaurant-app-wt/blob/master/screenshots/PageNotFound.png" />
 
 **Look forward to your reviews/suggestions.** 😀😇
