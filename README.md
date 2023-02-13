@@ -35,21 +35,21 @@ Firebase is used for uploading and retrieving images.
 
 ### Images:
 > Welcome Page
-<img src="https://github.com/pandeysushmit/proj_restaurant/tree/main/screenshots/WelcomePage.png" />
+<img src="screenshots/AddMenu.png" width="50%"/>
 > Login
-<img src="https://github.com/pandeysushmit/proj_restaurant/tree/main/screenshots/Login.png" />
+<img src="screenshots/Login.png" width="50%"/>
 
 > Sign Up
-<img src="https://github.com/pandeysushmit/proj_restaurant/tree/main/screenshots/SignUp.png" />
+<img src="screenshots/SignUp.png" width="50%"/>
 
 > Home
-<img src="https://github.com/pandeysushmit/proj_restaurant/tree/main/screenshots/Home.png" />
+<img src="screenshots/Home.png" width="50%"/>
 
 > Add Menu Form
-<img src="https://github.com/pandeysushmit/proj_restaurant/tree/main/screenshots/AddMenu.png" />
+<img src="screenshots/AddMenu.png" width="50%"/>
 
 > Edit Menu Form
-<img src="https://github.com/pandeysushmit/proj_restaurant/tree/main/screenshots/EditMenu.png" />
+<img src="screenshots/EditMenu.png" width="50%"/>
 
 > Page not found
-<img src="https://github.com/pandeysushmit/proj_restaurant/tree/main/screenshots/PageNotFound.png" />
+<img src="screenshots/PageNotFound.png" width="50%"/>
